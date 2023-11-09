@@ -1,0 +1,49 @@
+body, h1, h2, {
+    margin: 0;
+    padding: 0;
+    font-size:40px;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+/* Basic styling for the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Navigation menu */
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+}
+
+/* Style for individual sections */
+section {
+    padding: 20px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Additional styles can be added as needed */
